@@ -2,7 +2,7 @@
 
 ## What's inside it?
 
-1. Webpack 2;
+* Webpack 2;
 * Babel;
 * React hot loader;
 * HTML and CSS generated automatically by webpack;
@@ -46,7 +46,3 @@ A big thanks to [@hgtpcastro](https://github.com/hgtpcastro) for this tip.
 - `yarn build-storybook`: Build Storybook to static files
 - `yarn update-packages`: Update all packages to the latest version
 - `yarn start (or npm start)`: Special script reserved to run production code. Change as you wish. For now, it is the same as `yarn dev`.
-
-## License
-
-[MIT](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Fernando Daciuk
